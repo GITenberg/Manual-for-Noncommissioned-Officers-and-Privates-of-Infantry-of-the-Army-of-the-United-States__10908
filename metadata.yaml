@@ -1,0 +1,31 @@
+_repo: Manual-for-Noncommissioned-Officers-and-Privates-of-Infantry-of-the-Army-of-the-United-States__10908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. War Department
+    aliases:
+    - Department, United States. War
+    - Dept., United States. War
+    - United States. War Dept.
+    - Department, U. S. War
+    gutenberg_agent_id: '3745'
+    url: http://www.gutenberg.org/2009/agents/3745
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Infantry -- Drill and tactics'
+- !lcsh 'United States. Army -- Handbooks, manuals, etc.'
+- !lcsh 'United States. Army -- Non-commissioned officers'' handbooks'
+- !lcc 'UD'
+- GITenberg
+title: "Manual for Noncommissioned Officers and Privates of Infantry of the Army of\
+  \ the United States, 1917\r\nTo be used by Engineer companies (dismounted) and Coast\
+  \ Artillery companies for Infantry instruction and training"
+url: http://www.gutenberg.org/ebooks/10908
